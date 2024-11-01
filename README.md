@@ -5,7 +5,7 @@
 ## Aim:
  To implement the conversion of live speech to text.<BR>
 ## Algorithm:
-Step 1: Import the speech_recognition library<Br>
+Step 1: Import the speech_recognition library
 Step 2: Initialize the Recognizer<Br>
 Step 3: Create an instance of the Recognizer class, which will be used for recognizing speech.<Br>
 Step 4: Set the duration for audio capture<Br>
